@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/fy/.android/build-cache/0d5f04946678bf185465514ce699af5395626f68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_49ec3f46223f5fb3eab557bc858c8d2ec0ba833a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/.android/build-cache/5064d91d671c7a5a2e625548064f86c23563b9b7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_578ff1976ce7a10f53fa8d22479a55324ff8eeeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/.android/build-cache/36b357ef550d9786b93c2d1fb6d35e9db4bd0298/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_59626df45a9cbeafe1801bf01a28a0039642e453/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/.android/build-cache/c9e33764efee17c4c863f4f77c43fcbf730b643b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b6ad089776e276e7e5ee268af10c06238b71e25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_86b319b716e765616c626b378f2288329f0c8259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/.android/build-cache/8bfaf93788e06ab658f1f8c7e43dd8651ea6345c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b6a74f2ab87c15af83f8a6510b2cc3a6da38bb84/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/.android/build-cache/686667b8e2b249eab6d674fc368145ed678ee762/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a21ca742edb60512e2dc078338c8d1860f82425/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/.android/build-cache/b8909dfb7aad86c2c30864e0ea9c928d402835fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_449d915f962293168a7bbd1a5319f06819f1e869/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/.android/build-cache/5c662043ac638d79c58b3ced85a45ded37e136aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_831793c49cad428b23a9493b20cb20484b2b65f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/.android/build-cache/bf41d163108268cb9734bf4db8ae73ebf15d2c8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2c2d48a5cf7ecec9889ab5462f56edc4e6d4406/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/Documents/ToDoList/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c28ad005bcd3d8f32155d10c7d1c46e88a3e653e">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d14ba11b3f0807eec589b6eac4acd4b4af045fb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/Documents/ToDoList/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d832fc7c641c97ef7c3e11bb969b5dcbb77a5ada/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/.android/build-cache/262b8077226ccf5a3ecdb3d1e38b2a8895c5a088/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f360b25d09bd80e203f7127ecc2b6b738035cc69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_7bcd659c8e9c1ca4265f42f208f2cefc2e39ee34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/.android/build-cache/2c39440891f0fd6e316d9a719009c1c7f6aee0c7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ede635cb17be41baaaef4c79d13939ab675372d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/.android/build-cache/7caff2480465fbb6d56a3338222f786e027e6234/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5cd7be8df7ddb2aa3fc354ddb23e0ef44fc73938/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/fy/.android/build-cache/3a105225bd37edc532f36e4c93bf4b807ebd708b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/fy/Documents/ToDoList/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2729820c12a495934d88908010d46c6cb6e61e5a/classes.dex" />
+    </item>
+
+</items>
